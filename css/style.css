@@ -2,7 +2,7 @@ body {
     max-width: 1170px;
     width: 100%;
     margin: 0 auto;
-    background: wheat;
+    /* background: wheat; */
 }
 
 .contact{
@@ -102,3 +102,49 @@ input{
     text-align: center;
 }
 
+.contact-end {
+    /* background-color: #5863F8; */
+    width: 320px;
+    text-align: center;
+    /* display: flex;
+    flex-direction: row; */
+    display: inline-block;
+    
+
+}
+
+
+.contact-end p {
+   
+}
+
+
+.contact-end{
+    
+  
+    
+    
+   
+}
+
+
+
+.contact-end {
+  
+   display: flex;
+    flex-direction: row;
+   
+ 
+    
+}
+
+
+.card-1 {
+    margin-right: 160px;
+    
+
+}
+
+.icon {
+    margin: 0 auto;
+}
